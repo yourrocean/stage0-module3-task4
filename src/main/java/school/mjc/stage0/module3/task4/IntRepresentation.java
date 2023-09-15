@@ -2,8 +2,12 @@ package school.mjc.stage0.module3.task4;
 
 public class IntRepresentation {
     public static void main(String[] args) {
-        int a, b;
-        System.out.println((9*a*a-5*a+2+a-7)*((a+b-4*a*b)/2));
+        int a=65, c = 67, h = 72, r = 82 ;  
+        char c2=(char)c; 
+        char h2=(char)h;
+        char a2=(char)a; 
+        char r2=(char)r; 
+        System.out.println(c+h+a+r);  
         
     }
     
